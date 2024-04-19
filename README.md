@@ -7,7 +7,7 @@ Services Page: Discover fictional services offered.
 Interactive Elements: Engage with fun animations and effects.
 Responsive Design: Optimized for different screen sizes.
 
-Technologies Used
+Technologies Used:
 HTML5
 CSS3
 JavaScript
